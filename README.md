@@ -9,6 +9,7 @@ A  accounting system should make every expenditure be recorded and analyzed easi
 
 
 Features:
+
 •	The system can add records of income and expenses.
 
 •	 The records contain features such as date, type, account.
