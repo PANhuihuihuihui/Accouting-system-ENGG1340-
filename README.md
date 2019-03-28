@@ -8,11 +8,17 @@ A  accounting system should make every expenditure be recorded and analyzed easi
 
 
 
-Features
+Features:
 •	The system can add records of income and expenses.
+
 •	 The records contain features such as date, type, account.
+
 •	 The system can delete or edit records.
+
 •	 The system supports the users to search the records by date, type or account.
+
 •	 The system can provide a monthly report with statistic data.
+
 •	 The system allows budget setting and giving an alert when reaching the budget.
+
 •	 The system allows adding records in multiple currencies. While the default currency is RMB.
